@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+# following KISS keep it just a two methods
 def handle_request(body, request_id)
   timestamp = body.fetch(:timestamp)
   data = body.fetch(:data)
