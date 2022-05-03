@@ -13,6 +13,6 @@ end
 
 gem "benchmark-ips", "~> 2.7", :group => :development
 
-gem "sinatra", "~> 2.0"
+gem "sinatra", "~> 2.2"
 
 gem "thin", "~> 1.7"
